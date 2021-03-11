@@ -1,7 +1,7 @@
 {
   "actionName": "ping",
   "actionDescription": "Check if the bot is online.",
-  actionSQ: [
+  "actionSQ": [
     {
       "action": "sendMessage",
       "messageValue": "🏓 Pong!"
